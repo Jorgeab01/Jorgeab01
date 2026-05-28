@@ -15,6 +15,6 @@ Software Engineering student at University of Oviedo.
 <a href="https://jorgeab.dev" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-jorgeab.dev-8A2BE2?style=for-the-badge alt=portfolio style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:jorgeab496@gmail.com" target="_blank">
+<a href="mailto:contact@jorgeab.dev" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
