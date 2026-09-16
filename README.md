@@ -6,11 +6,10 @@ Software Engineering student at the University of Oviedo (graduating 2029).
 I build backend systems and I like understanding them deeply enough to
 explain, break and rebuild them.
 
+📍 Asturias, Spain
+
 Currently building **kilter-grading**, a model that predicts climbing grades
 from a board layout.
-
-- 📍 Asturias, Spain
-- Spanish (native), English (professional working proficiency).
 
 ### Projects
 - [kilter-grading](https://github.com/Jorgeab01/kilter-grading) - Predicts Kilter Board grades from hold layout. Python, XGBoost.
