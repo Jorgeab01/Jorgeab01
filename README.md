@@ -1,19 +1,22 @@
-## Hi, I'm Jorge 👋
-Software Engineering student at University of Oviedo.
-- 📍 Asturias, Spain
-  
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+# Jorge Alonso Bango
 
-## 📫 Contact
-<a href="https://jorgeab.dev" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-jorgeab.dev-8A2BE2?style=for-the-badge alt=portfolio style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:contact@jorgeab.dev" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
+🔗 [jorgeab.dev](https://jorgeab.dev)
+
+Software Engineering student at the University of Oviedo (graduating 2029).
+I build backend systems and I like understanding them deeply enough to
+explain, break and rebuild them.
+
+Currently building **kilter-grading**, a model that predicts climbing grades
+from a board layout.
+
+- 📍 Asturias, Spain
+- Spanish (native), English (professional working proficiency).
+
+### Projects
+- [kilter-grading](https://github.com/Jorgeab01/kilter-grading) - Predicts Kilter Board grades from hold layout. Python, XGBoost.
+- [still-alive](https://github.com/Jorgeab01/still-alive) - Monitoring for my home server. Python, Flask, SQLite, Tailscale. [Live](https://still-alive.jorgeab.dev)
+
+### Working with
+Python · Flask · Git · SQLite · Linux
+
+📫 contact@jorgeab.dev · [LinkedIn](https://www.linkedin.com/in/jorgealonsobango/)
