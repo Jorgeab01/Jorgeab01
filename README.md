@@ -8,14 +8,14 @@ explain, break and rebuild them.
 
 📍 Asturias, Spain
 
-Currently building **kilter-grading**, a model that predicts climbing grades
-from a board layout.
+Currently building **CASHDAQ**, an experimental stock exchange built from
+scratch in Java.
 
 ### Projects
-- [kilter-grading](https://github.com/Jorgeab01/kilter-grading) - Predicts Kilter Board grades from hold layout. Python, XGBoost.
+- [cashdaq](https://github.com/Jorgeab01/cashdaq) - Experimental stock exchange with a price-time priority matching engine. Java, Gradle, JUnit.
 - [still-alive](https://github.com/Jorgeab01/still-alive) - Monitoring for my home server. Python, Flask, SQLite, Tailscale. [Live](https://still-alive.jorgeab.dev)
 
 ### Working with
-Python · Flask · Git · SQLite · Linux
+Java · Python · Flask · Git · SQLite · Linux
 
 📫 contact@jorgeab.dev · [LinkedIn](https://www.linkedin.com/in/jorgealonsobango/)
